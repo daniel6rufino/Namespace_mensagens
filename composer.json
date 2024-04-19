@@ -1,0 +1,15 @@
+{
+    "name": "daniel/mensagem",
+    "description": "exercicio na aula de TPA 12_04",
+    "autoload": {
+        "psr-4": {
+            "Mensagem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Rufino"
+        }
+    ],
+    "require": {}
+}
